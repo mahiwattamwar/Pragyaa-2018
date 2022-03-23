@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pragyaa 2018 | Gaming Events</title>
+	<link href="../icon.css?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/rays.css">
+	<!-- Compiled and minified CSS -->
+	<link rel="stylesheet" href="../css/materialize.min.css">
+	<!-- Compiled and minified JavaScript -->
+	<script type="text/javascript" src="js/jq.js"></script>
+	<script src="../js/materialize.min.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="../gtag/js.js?id=UA-112017935-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112017935-1');
+</script>
+
+</head>
+<body>
+
+
+	<!-- whole wrapper for complete body -->
+	<div class="whole_wrapper valign-wrapper">
+		
+		<!-- side buttons -->
+		<div class="button valign-wrapper center-align" id="left" style="left: : 15px">
+			<div class="half_side" style="left: 15px;"></div>
+			<span class="hor_center"><i class="material-icons">chevron_left</i></span>
+		</div>
+		
+
+		<div class="button center-align valign-wrapper" id="right" style="right: 15px">
+			<div class="half_side" style="right: 15px;"></div>
+			<span class="hor_center"><i class="material-icons">chevron_right</i></span>
+		</div>
+		<!-- end side buttons -->
+
+
+
+
+
+		<!-- ++ (addtional space) wrapper for all events -->
+		<div class="whole_event_wrapper" data-category="Gaming Event" data-collection-name="gaming">
+			<!-- card wrapper -->
+			<div class="card_wrapper">
+
+
+
+
+				<!-- actual card -->
+				<!-- card -->
+				<!-- special card -->
+				<div id="card1" class="crd moving_cards card_1">
+
+					<img src="img/event.jpg" class="responsive-img event_image">
+					<!-- information about event -->
+					<div class="event_info">
+
+						<div class="event_head"></div>
+
+						<!-- event juk yard wars -->
+						<div class="sub waves-effect btn-flat white" data-desc="" data-rule="">VIEW</div>
+					</div>
+				</div>
+				<!-- card end -->
+
+
+			</div>
+			<!-- card wrapper ends -->
+		</div>
+		<!-- wrapper for all events ends -->
+
+<!-- actual card -->
+
+
+
+
+
+		<div class="modal_wrapper" id="modal_wrapper">
+			<div class="in_modal" id="in_modal">
+				<a class="btn-floating btn-large waves-effect waves-dark white pulse" style="left: 5px; top: 5px" onclick="closeModal()">
+					<i class="large material-icons" style="color: black;">close</i>
+			    </a>
+
+			<div class="modal_image">
+				<img class="responsive-img" src="../shutterstock/videos/23962702/thumb/1.jpg">
+			</div>
+
+			<div class="modal_event_domain" id="modal_event_domain"></div>
+			<div class="modal_event_name" id="modal_event_name"></div>
+
+			<div class="modal_information row">
+
+				<ul class="information col s4 offset-s1 collection with-header" id="modal_desc">
+			        <li class="collection-header"><h6>DESCRIPTION</h6></li>
+			        <li class="collection-item" style="overflow-y: scroll; font-size: 1rem;"><div class="desc_text"></div></li>
+			    </ul>
+
+				<ul class="information col s4 offset-s1 collection with-header" id="modal_rules">
+			        <li class="collection-header"><h6>RULES</h6></li>
+			        <li class="collection-item" style="overflow-y: scroll; font-size: 1rem; height: 100% !important;"><div class="rule_text"></div></li>
+			    </ul>
+
+			    <ul class="information col s4 offset-s1 collection with-header" id="modal_desc">
+			        <li class="collection-header"><h6>GAMEPLAY</h6></li>
+			        <li class="collection-item" style="overflow-y: scroll; font-size: 1rem;"><div class="gameplay_text"></div></li>
+			    </ul>
+
+				<ul class="information col s4 offset-s1 collection with-header" id="modal_rules">
+			        <li class="collection-header"><h6>PRIZES</h6></li>
+			        <li class="collection-item" style="overflow-y: scroll; font-size: 1rem; height: 100% !important;"><div class="prize_text"></div></li>
+			    </ul>
+
+			    <div id="overlay" onclick="closeContact()" class="black hide" style="z-index; -100; position: fixed; top: 0; left: 0; height: 4000px; width: 100%; opacity: 0.7;"></div>
+
+
+			    <a id="scale-demo" href="#!" class="btn-floating btn-large scale-transition scale-out" style="line-height: 24px; border-radius: 50%; z-index: 10000; position: absolute; margin-left: -150px; margin-top: -150px; top: 46%; left: 46%; height: 300px; width: 300px; display: flex; align-items: center; justify-content: center;"> Contact info</a>
+
+			    <a id="scale-demo-trigger" onclick="openContact()" href="#!" class="btn btn-floating btn-large" style="position: absolute; top: 46%; left: 44%;"><i class="large material-icons" style="color: black;">call</i></a>
+
+			</div>
+
+			</div>
+		</div>
+
+
+
+	</div>
+	<!-- ending complete whole wrapper -->
+	<!--canvas id="canvas"></canvas-->
+
+	<!-- external jquery -->
+	<script type="text/javascript" src="js/finalEvents.js"></script>
+	<script src="js/rays.js"></script>
+	<script src="../firebasejs/4.8.1/firebase.js"></script>
+	<script src="../firebasejs/4.8.1/firebase-firestore.js"></script>
+	<script>
+  // Initialize Firebase
+  var config = {
+  	apiKey: "AIzaSyDJKKb8lb4OlB9OvSbdaHCEepAKHDBfZT8",
+  	authDomain: "pragyaa2018-31265.firebaseapp.com",
+  	databaseURL: "https://pragyaa2018-31265.firebaseio.com",
+  	projectId: "pragyaa2018-31265",
+  	storageBucket: "pragyaa2018-31265.appspot.com",
+  	messagingSenderId: "46256597203"
+  };
+  firebase.initializeApp(config);
+
+  function openContact() {
+  	  $("#overlay").removeClass("hide");
+  	  $("#scale-demo").removeClass("scale-out");
+  }
+
+  function closeContact() {
+  	  $("#overlay").addClass("hide");
+  	  $("#scale-demo").addClass("scale-out");
+  }
+
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+#canvas {
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#4f4f34), to(#1f1f12));
+  background-image: linear-gradient(#4f4f34, #1f1f12);
+}

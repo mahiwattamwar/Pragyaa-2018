@@ -1,0 +1,286 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	overflow-x: hidden;
+	background-color: #141414;
+}
+
+
+.whole_wrapper{
+	height: 100vh;
+	width: 100vw;
+	position: absolute;
+	z-index: -1;
+}
+
+.button{
+	position: absolute;
+	height: 100px !important;
+	width: 100px !important;
+	background-color: white;
+	opacity: 0.3;
+	text-align: center;
+	transform-origin: 50% 50%;
+	transition: all 0.3s ease;
+	z-index: 10000000;
+	border-radius: 50%;
+}
+
+.button:hover{
+	opacity: 0.5;
+	/*width: 150px;*/
+	transform: scale(1.3);
+
+}
+/*
+#left{
+	border-radius: 0 25px 25px 0;
+}
+
+#right{
+	border-radius: 25px 0 0 25px;
+}
+*/
+/*
+.half_side{
+	position: absolute;
+	width: 0px;
+	opacity: 0;
+	height: 100vh;
+	background-color: blue;
+	transition:all 0.6s ease;
+
+}
+/*
+.button:hover .half_side{
+	background-color: yellow;
+	width: 250%;
+	opacity: 0.4;
+}
+*/
+
+/*to centre horizontally*/
+.hor_center{
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+.whole_event_wrapper{
+	position: absolute;
+	height: 100%;
+	width: 4000px;
+	background-color: #141414;
+	z-index: -1;
+}
+
+.card_wrapper{
+	left: 200px;
+	top: 50%;
+	margin-top: -200px;
+	height: 400px;
+	position: relative;
+	background-color: #141414;
+	
+	transition: opacity 0.4s ease;
+}
+
+.crd{
+	position: relative;
+	height: 300px;
+	width: 250px;
+	float: left;
+	margin-top: 50px;
+	margin-right: 50px;
+	overflow: hidden;
+	border-radius: 5px;
+
+	transition: all 0.3s ease;
+
+}
+
+.crd:hover{
+	box-shadow: 10px 10px 5px #888888;
+	transform: scale(1.1);
+}
+
+
+.event_image{
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	display: block;
+	margin: auto;
+	transform-origin: 0 0;
+	transform: scale(1);
+	transition: all 0.3s ease-out;
+}
+
+.crd:hover .event_image{
+	transform: scale(1.2);
+	opacity: 0.5;
+}
+
+
+.event_info{
+	height: 100%;
+	width: 100%;
+}
+
+.crd:hover .event_info{
+	
+}
+
+.event_head{
+	position: absolute;
+	top: 200px;
+	right: 0%;
+	height: 50px;
+	width: 75%;
+	padding: 10px;
+	background: white;
+	opacity: 0.7;
+	font-weight: bold;
+	transition: all 0.3s ease-out;
+
+}
+
+.crd:hover .event_head{
+	top: 0;
+	width: 100%;
+}
+
+
+.sub{
+	transition: all ease-out 0.3s;
+	height: 40px;
+	width: 50%;
+	transform-origin: 100% 100%;
+	transform: scale(0);
+	opacity: 0;
+	position: absolute;
+	top: 200px;
+	right: 0;
+	z-index: 10000;
+	border: 2px solid red;
+	transition-delay: 1s;
+	border-radius: 0 10px 10px 0 !important;
+	transform-origin: 0 50%;
+}
+
+.sub:hover{
+	transform: scale(1.1) !important;
+	opacity: 0.7;
+}
+
+.crd:hover .sub{
+	transform: scale(1);
+	opacity: 0.5;
+	top: 150px;
+	left: 0;
+}
+
+
+
+
+
+.modal_wrapper{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	right: -75%;
+	height: 200px;
+	opacity: 0;
+	width: 90%;
+	background-color: black;
+	color: white;
+	transition: all 0.4s ease-in;
+}
+
+.in_modal{
+	display: none;
+	opacity: 0;
+
+	transition: all 0.4s ease-in;
+}
+
+.modal_event_domain{
+	position: absolute;
+	top: 10px;
+	left: 70px;
+	font-size: 30px;
+}
+
+.modal_image{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 400px;
+	width: 100%;
+	overflow: hidden;
+	opacity: 0.4;
+}
+
+.modal_event_name{
+	position: absolute;
+	top: 320px;
+	left: 20px;
+	font-size: 50px;
+}
+
+.modal_information{
+	position: absolute;
+	top: 250px;
+	width: 100%;
+	height: auto;
+	padding: 10px;
+	overflow-y: scroll;
+}
+
+.information{
+	position: relative;
+	font-size: 18px;
+	background-color: rgb(238, 238, 238);
+	/* opacity: 0.5; */
+	color: black;
+	padding: 5px;
+	margin-bottom: 10px;
+	transform: translateY(20px);
+	min-height: 200px !important;
+	transition: all 0.3s ease-in;
+}
+
+.information > *{
+	background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.indent{
+	padding: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.card_wrapper:hover > .crd {
+  opacity: 0.3;
+}
+
+.card_wrapper:hover > .crd:hover {
+  opacity: 1.0;
+}

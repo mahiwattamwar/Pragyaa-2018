@@ -1,0 +1,24 @@
+/* fonts */
+@font-face {
+	font-family: batmanForever;
+	src: url('../fonts/batmfa__.ttf');
+}
+
+@font-face {
+	font-family: museo;
+	src : url('../fonts/MuseoSansRounded-500.otf');
+}
+
+.batmanO{
+	font-family: batmanForever;
+}
+
+*{
+	box-sizing: border-box;
+}
+	
+body{
+	background: #00474a;
+
+}
+		

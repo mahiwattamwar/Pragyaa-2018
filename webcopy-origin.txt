@@ -1,0 +1,340 @@
+Uri: https://2018.pragyaa.tech/
+File Name: D:\website\2018.pragyaa.tech\index.htm
+Content Type: text/html
+
+Uri: https://2018.pragyaa.tech/favicon.png
+File Name: D:\website\2018.pragyaa.tech\favicon.png
+Content Type: image/png
+
+Uri: https://2018.pragyaa.tech/css/style.css
+File Name: D:\website\2018.pragyaa.tech\css\style.css
+Content Type: text/css
+
+Uri: https://2018.pragyaa.tech/css/materialize.min.css
+File Name: D:\website\2018.pragyaa.tech\css\materialize.min.css
+Content Type: text/css
+
+Uri: https://2018.pragyaa.tech/css/home.css
+File Name: D:\website\2018.pragyaa.tech\css\home.css
+Content Type: text/css
+
+Uri: https://2018.pragyaa.tech/sponsors/sponsors.html
+File Name: D:\website\2018.pragyaa.tech\sponsors\sponsors.html
+Content Type: text/html
+
+Uri: https://2018.pragyaa.tech/sponsors/why/why_sponsor_us.html
+File Name: D:\website\2018.pragyaa.tech\sponsors\why\why_sponsor_us.html
+Content Type: text/html
+
+Uri: https://2018.pragyaa.tech/events/special_events.html
+File Name: D:\website\2018.pragyaa.tech\events\special_events.html
+Content Type: text/html
+
+Uri: https://2018.pragyaa.tech/events/gaming_events.html
+File Name: D:\website\2018.pragyaa.tech\events\gaming_events.html
+Content Type: text/html
+
+Uri: https://2018.pragyaa.tech/events/online_events.html
+File Name: D:\website\2018.pragyaa.tech\events\online_events.html
+Content Type: text/html
+
+Uri: https://2018.pragyaa.tech/events/robotics_events.html
+File Name: D:\website\2018.pragyaa.tech\events\robotics_events.html
+Content Type: text/html
+
+Uri: https://2018.pragyaa.tech/hospi/hospi.html
+File Name: D:\website\2018.pragyaa.tech\hospi\hospi.html
+Content Type: text/html
+
+Uri: https://2018.pragyaa.tech/form.html
+File Name: D:\website\2018.pragyaa.tech\form.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: D:\website\2018.pragyaa.tech\icon.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-112017935-1
+File Name: D:\website\2018.pragyaa.tech\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/images/logo.png
+File Name: D:\website\2018.pragyaa.tech\images\logo.png
+Content Type: image/png
+
+Uri: https://2018.pragyaa.tech/images/speranza1.png
+File Name: D:\website\2018.pragyaa.tech\images\speranza1.png
+Content Type: image/png
+
+Uri: https://2018.pragyaa.tech/images/spons1.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons1.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/events1.jpg
+File Name: D:\website\2018.pragyaa.tech\images\events1.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/hospi.jpg
+File Name: D:\website\2018.pragyaa.tech\images\hospi.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/about.jpg
+File Name: D:\website\2018.pragyaa.tech\images\about.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/1.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\1.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/2.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\2.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/3.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\3.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/4.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\4.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/5.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\5.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/6.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\6.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/7.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\7.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/8.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\8.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/9.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\9.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/10.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\10.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/11.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\11.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/12.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\12.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/13.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\13.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/14.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\14.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/15.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\15.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/16.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\16.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/17.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\17.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/images/spons/18.jpg
+File Name: D:\website\2018.pragyaa.tech\images\spons\18.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/js/jquery-3.2.1.min.js
+File Name: D:\website\2018.pragyaa.tech\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/js/materialize.min.js
+File Name: D:\website\2018.pragyaa.tech\js\materialize.min.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/js/particles.js
+File Name: D:\website\2018.pragyaa.tech\js\particles.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/js/app.js
+File Name: D:\website\2018.pragyaa.tech\js\app.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/js/home.js
+File Name: D:\website\2018.pragyaa.tech\js\home.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/js/countdown.js
+File Name: D:\website\2018.pragyaa.tech\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/fonts/batmfa__.ttf
+File Name: D:\website\2018.pragyaa.tech\fonts\batmfa__.ttf
+Content Type: font/ttf
+
+Uri: https://2018.pragyaa.tech/fonts/MuseoSansRounded-500.otf
+File Name: D:\website\2018.pragyaa.tech\fonts\MuseoSansRounded-500.otf
+Content Type: font/otf
+
+Uri: https://2018.pragyaa.tech/fonts/JosefinSans-Regular.ttf
+File Name: D:\website\2018.pragyaa.tech\fonts\JosefinSans-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/accomodation/1.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\accomodation\1.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/accomodation/2.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\accomodation\2.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/associate/1.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\associate\1.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/associate/2.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\associate\2.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/associate/3.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\associate\3.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/associate/4.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\associate\4.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/associate/5.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\associate\5.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/banking/1.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\banking\1.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/corporate/1.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\corporate\1.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/corporate/2.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\corporate\2.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/corporate/3.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\corporate\3.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/education/1.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\education\1.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/education/2.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\education\2.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/education/3.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\education\3.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/education/4.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\education\4.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/education/5.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\education\5.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/education/6.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\education\6.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/education/7.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\education\7.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/sponsors/images/new/education/8.jpg
+File Name: D:\website\2018.pragyaa.tech\sponsors\images\new\education\8.jpg
+Content Type: image/jpeg
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css
+File Name: D:\website\2018.pragyaa.tech\ajax\libs\materialize\0.100.2\css\materialize.min.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/jquery-3.2.1.min.js
+File Name: D:\website\2018.pragyaa.tech\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js
+File Name: D:\website\2018.pragyaa.tech\ajax\libs\materialize\0.100.2\js\materialize.min.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/events/css/main.css
+File Name: D:\website\2018.pragyaa.tech\events\css\main.css
+Content Type: text/css
+
+Uri: https://2018.pragyaa.tech/events/css/rays.css
+File Name: D:\website\2018.pragyaa.tech\events\css\rays.css
+Content Type: text/css
+
+Uri: https://2018.pragyaa.tech/events/js/jq.js
+File Name: D:\website\2018.pragyaa.tech\events\js\jq.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/events/img/event.jpg
+File Name: D:\website\2018.pragyaa.tech\events\img\event.jpg
+Content Type: image/jpeg
+
+Uri: https://ak2.picdn.net/shutterstock/videos/23962702/thumb/1.jpg
+File Name: D:\website\2018.pragyaa.tech\shutterstock\videos\23962702\thumb\1.jpg
+Content Type: image/jpeg
+
+Uri: https://2018.pragyaa.tech/events/js/finalEvents.js
+File Name: D:\website\2018.pragyaa.tech\events\js\finalEvents.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/events/js/rays.js
+File Name: D:\website\2018.pragyaa.tech\events\js\rays.js
+Content Type: application/javascript
+
+Uri: https://www.gstatic.com/firebasejs/4.8.1/firebase.js
+File Name: D:\website\2018.pragyaa.tech\firebasejs\4.8.1\firebase.js
+Content Type: text/javascript
+
+Uri: https://www.gstatic.com/firebasejs/4.8.1/firebase-firestore.js
+File Name: D:\website\2018.pragyaa.tech\firebasejs\4.8.1\firebase-firestore.js
+Content Type: text/javascript
+
+Uri: https://2018.pragyaa.tech/hospi/css/macss.css
+File Name: D:\website\2018.pragyaa.tech\hospi\css\macss.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Asap|Hind+Siliguri
+File Name: D:\website\2018.pragyaa.tech\css.css
+Content Type: text/css
+
+Uri: https://2018.pragyaa.tech/hospi/js/jquery.mousewheel.min.js
+File Name: D:\website\2018.pragyaa.tech\hospi\js\jquery.mousewheel.min.js
+Content Type: application/javascript
+
+Uri: https://2018.pragyaa.tech/hospi/js/js.js
+File Name: D:\website\2018.pragyaa.tech\hospi\js\js.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/maps/embed/v1/place?q=place_id:ChIJqxdCuPApzjsRKGb2A8XyXNs&key=AIzaSyDqouppUxNRj9UDdbDsVUZfOfmGJMj_aaU
+File Name: D:\website\2018.pragyaa.tech\maps\embed\v1\place.html
+Content Type: text/html
+
+Uri: https://2018.pragyaa.tech/hospi/imgs/bck.jpg
+File Name: D:\website\2018.pragyaa.tech\hospi\imgs\bck.jpg
+Content Type: image/jpeg
+
